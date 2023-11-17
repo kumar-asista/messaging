@@ -106,7 +106,7 @@ describe('Carousel & Card renderer', () => {
               {
                 action: 'Open URL',
                 title: 'Button 1',
-                url: 'https://botpress.com'
+                url: 'https://asista.com'
               }
             ]
           }

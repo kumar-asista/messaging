@@ -9,7 +9,7 @@ import { Stream } from './stream'
 
 export class Root extends Entry {
   get name() {
-    return 'Botpress Messaging'
+    return 'AsistaBot Messaging'
   }
 
   get port() {

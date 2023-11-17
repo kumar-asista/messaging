@@ -8,7 +8,7 @@ import { Stream } from './stream'
 
 export class Root extends Entry {
   get name() {
-    return 'Botpress Extension Example'
+    return 'AsistaBot Extension Example'
   }
 
   get port() {

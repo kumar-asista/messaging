@@ -480,7 +480,7 @@ class RootStore {
     this.view.disableAnimations = !!this.config.disableAnimations
     this.config.showPoweredBy ? this.view.showPoweredBy() : this.view.hidePoweredBy()
 
-    document.title = this.config.botName || 'Botpress Webchat'
+    document.title = this.config.botName || 'AsistaBot Webchat'
 
     if (!this.isInitialized) {
       window.USE_SESSION_STORAGE = !!this.config.useSessionStorage
